@@ -1,0 +1,25 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(135, 11, 5);
+  }
+  
+.container {
+    width: 75%;
+    margin: 0 auto;
+  }
+  
+.item {
+    background-color: gold;
+    height: 50px;
+  }
+  
+h1 {
+    margin: 0;
+  }
+  
+p {
+    margin: 0;
+  }
+
+h1 { margin: 0; }
+a { text-decoration: none; }
